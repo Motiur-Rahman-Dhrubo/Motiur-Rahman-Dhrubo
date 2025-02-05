@@ -118,7 +118,7 @@
 ###
 
 <div align="center">
-  [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Motiur-Rahman-Dhrubo&theme=dark)](https://git.io/streak-stats)
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Motiur-Rahman-Dhrubo&theme=dark" height="150" alt="languages graph"  />
 </div>
 
 ###
