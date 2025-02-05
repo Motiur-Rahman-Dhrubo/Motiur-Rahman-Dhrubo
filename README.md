@@ -93,7 +93,7 @@
   <a href="https://www.linkedin.com/in/md-motiur-rahman-105598318/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://discord.com/channels/motiurrahmandhrubo_06483" target="_blank">
+  <a href="https://discord.com/users/motiurrahmandhrubo_06483" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://www.youtube.com/@ruitom.coder383" target="_blank">
