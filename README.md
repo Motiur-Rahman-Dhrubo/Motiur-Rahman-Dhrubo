@@ -32,7 +32,7 @@
 
 ###
 
-<h5 align="left">Frontend Development:</h5>
+<h5 align="center">Frontend Development:</h5>
 
 ###
 
@@ -54,7 +54,7 @@
 
 ###
 
-<h5 align="left">Frontend Development:</h5>
+<h5 align="center">Frontend Development:</h5>
 
 ###
 
@@ -68,7 +68,7 @@
 
 ###
 
-<h5 align="left">Tools & Technologies:</h5>
+<h5 align="center">Tools & Technologies:</h5>
 
 ###
 
